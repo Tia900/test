@@ -1,0 +1,31 @@
+{
+  "name": "Urina",
+  "symbol": "URN",
+  "description": "MAKE SOME URN",
+  "image": "https://example.com/path_to_urina_token_image.jpg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/path_to_urina_token_image.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4weAyp7Txoz3k3YuCsreNdXNoM5LJCmwnZS1caWTvTDk",
+        "share": 100
+      }
+    ]
+  }
+}
