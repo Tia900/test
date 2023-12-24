@@ -2,7 +2,7 @@
   "name": "Urina",
   "symbol": "URN",
   "description": "MAKE SOME URN",
-  "image": "https://example.com/path_to_urina_token_image.jpg",
+  "image": "https://raw.githubusercontent.com/Tia900/test/main/meta500.jpg",
   "attributes": [
     {
       "trait_type": "Category",
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/path_to_urina_token_image.jpg",
+        "uri": "https://raw.githubusercontent.com/Tia900/test/main/meta500.jpg",
         "type": "image/jpeg"
       }
     ],
